@@ -1,2 +1,3 @@
 Hello this is the second file
 This is added by the master
+This is added by the third
